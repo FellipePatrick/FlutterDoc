@@ -15,4 +15,7 @@ Comandos para atualizar as depedencias dos projetos
 ```bash
   dart run build_runner build
 ```
-
+Comandos para adicionar o sqlite ao projeto e a lib path
+```bash
+  flutter pub add sqflite path
+```
